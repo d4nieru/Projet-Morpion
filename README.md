@@ -13,15 +13,21 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le
 
 # Installation
 
-Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les commandes que vous pouvez executer. **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise ;D .
+Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les commandes que vous pouvez executer. **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
 
-La commande a lancer dans la console est celui-ci : pose_pion("Numero du joueur","Coordonnée Horizontale","Coordonnée Verticale")
+***Les commandes à uniquement taper dans la console***
 
-Pour + de contexte :
+Poser un pion : pose_pion("Numero du joueur","Coordonnée Horizontale","Coordonnée Verticale")
 
-JOUEURS = ('O', 'X') | 'O' = 0 'X' = 1 en programmation
+Si la case est jouable : case_jouable("Coordonnée Horizontale","Coordonnée Verticale") "Les coordonnées de la case doivent etre comprise entre 0 et 2 et la case doit etre vide"
+
+Savoir qui est le joueur gagnant si la partie est terminée : joueur_gagnant()
 
 Vous pouvez afficher le tableau de jeu de morpion en tapant cette commande dans la console : affiche_tableau_de_jeu()
+
+***Pour + de contexte :***
+
+JOUEURS = ('O', 'X') | 'O' = 0 'X' = 1 en programmation
 
 Prenons un exemple, si vous voulez faire comme ceci : https://i.imgur.com/5BzEZLK.png
 
