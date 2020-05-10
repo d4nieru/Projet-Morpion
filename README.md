@@ -32,3 +32,7 @@ Deuxieme exemple : https://i.imgur.com/EFw8W6f.png
 
 J'espère que c'est pas assez brouillon pour vous.
 Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python... (oui, quelle vie triste)
+
+#Le fameux code en python que vous devrez copier-coller
+
+Le voici : https://pastebin.com/gbr9t2JZ
