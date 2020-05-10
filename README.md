@@ -1,6 +1,6 @@
 # Projet-Morpion NSI #1
 
-# Projet achevé le 8/01/2020 ;D
+Projet achevé le 8/01/2020 [X]
 
 # À propos
 
@@ -20,32 +20,15 @@ Pour + de contexte :
 
 JOUEURS = ('O', 'X') | 'O' = 0 'X' = 1 en programmation
 
-Le tableau de morpion se présentera comme ceci, si vous faite cette commande dans la console : affiche_tableau_de_jeu()
+Vous pouvez afficher le tableau de jeu de morpion en tapant cette commande dans la console : affiche_tableau_de_jeu()
 
-#   0 1 2
-# 0
-# 1
-# 2
+Prenons un exemple, si vous voulez faire comme ceci : https://i.imgur.com/5BzEZLK.png
 
-Prenons un exemple, si vous voulez faire comme ceci :
+| Le premier 1 qui symbolise le Joueur X, Le deuxieme 1 correspond a la coordonnée horizontale, Le 2 correspond a la coordonnée verticale.
 
-  0 1 2
-0 
-1
-2   X
+Deuxieme exemple : https://i.imgur.com/EFw8W6f.png
 
-pose_pion(1,1,2)
-
-Le premier 1 qui symbolise le Joueur X, Le deuxieme 1 correspond a la coordonnée horizontale, Le 2 correspond a la coordonnée verticale.
-
-  0 1 2
-0
-1     O
-2
-
-pose_pion(0,2,1)
-
-Le 0 qui symbolise le Joueur O, Le 2 correspond a la coordonnée horizontale, Le 1 correspond a la coordonnée verticale.
+| Le 0 qui symbolise le Joueur O, Le 2 correspond a la coordonnée horizontale, Le 1 correspond a la coordonnée verticale.
 
 J'espère que c'est pas assez brouillon pour vous.
 Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python... (oui, quelle vie triste)
