@@ -1,7 +1,7 @@
 # Projet-Morpion NSI #1
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Projet achevé le 8/01/2020 [X]
+• Projet achevé le 8/01/2020 [X]
 
 # À propos
 
@@ -9,7 +9,7 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le
 
 # Logiciel requis
 
-N'importe quel logiciel qui execute du python et qui possède une console.
+• N'importe quel logiciel qui execute du python et qui possède une console.
 
 # Installation
 
@@ -33,7 +33,7 @@ Deuxieme exemple : https://i.imgur.com/EFw8W6f.png
 
 # Le fameux code en PYTHON
 
-Le voici : https://pastebin.com/gbr9t2JZ
+• Le voici : https://pastebin.com/gbr9t2JZ
 
 J'espère que c'est pas assez brouillon pour vous.
 Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python... (oui, quelle vie triste)
