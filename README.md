@@ -1,7 +1,7 @@
 # Projet-Morpion NSI #1
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-• Projet achevé le 8/01/2020 [X]
+◆ Projet achevé le 8/01/2020 [X]
 
 # À propos
 
