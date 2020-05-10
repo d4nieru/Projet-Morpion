@@ -30,9 +30,10 @@ Deuxieme exemple : https://i.imgur.com/EFw8W6f.png
 
 | Le 0 qui symbolise le Joueur O, Le 2 correspond a la coordonnée horizontale, Le 1 correspond a la coordonnée verticale.
 
+# Le fameux code en PYTHON
+
+Le voici : https://pastebin.com/gbr9t2JZ
+
 J'espère que c'est pas assez brouillon pour vous.
 Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python... (oui, quelle vie triste)
 
-#Le fameux code en python que vous devrez copier-coller
-
-Le voici : https://pastebin.com/gbr9t2JZ
