@@ -1,5 +1,7 @@
 # Projet-Morpion NSI #1
 
+# Projet achevé le 8/01/2020 ;D
+
 # À propos
 
 C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit (surtout les fonctions principaux) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe (mais différent de l'autre projet ;D). Le programme est écrit en python (personnellement on a utilisé repl.it) (language qui personnellement je le deteste meme s'il est le plus facile).
@@ -20,10 +22,10 @@ JOUEURS = ('O', 'X') | 'O' = 0 'X' = 1 en programmation
 
 Le tableau de morpion se présentera comme ceci, si vous faite cette commande dans la console : affiche_tableau_de_jeu()
 
-  0 1 2
-0
-1
-2
+#   0 1 2
+# 0
+# 1
+# 2
 
 Prenons un exemple, si vous voulez faire comme ceci :
 
