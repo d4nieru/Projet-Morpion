@@ -5,11 +5,11 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit (surtout les fonctions principaux) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe (mais différent de l'autre projet ;D). Le programme est écrit en python (personnellement on a utilisé repl.it) (language qui personnellement je le deteste meme s'il est le plus facile).
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit (surtout les fonctions principaux) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe (mais différent du projet de l'automate cellulaire ;D). Le programme est écrit en python.
 
 # Logiciel requis
 
-• N'importe quel logiciel qui execute du python et qui possède une console.
+• N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, on a utilisé le site web : https://repl.it )
 
 # Installation
 
