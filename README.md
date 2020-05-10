@@ -5,7 +5,7 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit (surtout les fonctions principaux) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe (mais différent du projet de l'automate cellulaire ;D). Le programme est écrit en python.
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit ( surtout les fonctions principaux ) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe ( mais différent du projet de l'automate cellulaire ). Le programme est écrit en python.
 
 # Logiciel requis
 
@@ -13,7 +13,7 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le
 
 # Installation
 
-Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les codes que vous pouvez executer. IMPORTANT : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise ;D .
+Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les commandes que vous pouvez executer. **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise ;D .
 
 La commande a lancer dans la console est celui-ci : pose_pion("Numero du joueur","Coordonnée Horizontale","Coordonnée Verticale")
 
@@ -33,8 +33,8 @@ Deuxieme exemple : https://i.imgur.com/EFw8W6f.png
 
 # Le fameux code en PYTHON
 
-• Le voici : https://pastebin.com/gbr9t2JZ
+• Le programme se **retrouve ici** : https://pastebin.com/gbr9t2JZ
 
 J'espère que c'est pas assez brouillon pour vous.
-Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python... (oui, quelle vie triste)
+Lorsque vous aurez assimilé ces infos, vous pourrez vous éclater avec vos potes au morpion sur python...
 
