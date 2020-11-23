@@ -13,7 +13,9 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le
 
 # Installation
 
-Après avoir copier-coller le programme, pour se servir du programme, voici les commandes que vous pouvez executer. **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
+**IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
+
+Après avoir copier-coller le programme, pour se servir du programme, voici les commandes que vous pouvez executer. 
 
 ***Les commandes à uniquement taper dans la console***
 
