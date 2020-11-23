@@ -11,10 +11,6 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le
 
 • N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, on a utilisé le site web : https://repl.it )
 
-# Le fameux code en PYTHON
-
-• Le programme se **retrouve ici** : https://pastebin.com/gbr9t2JZ
-
 # Installation
 
 Après avoir copier-coller le programme, pour se servir du programme, voici les commandes que vous pouvez executer. **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
