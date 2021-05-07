@@ -5,7 +5,7 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le morpion, Le code initiale etait déjà écrit ( surtout les fonctions principaux ) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe ( mais différent du projet de l'automate cellulaire ). Le programme est écrit en python.
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur le Morpion, Le code initiale etait déjà écrit ( surtout les fonctions principaux ) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je l'ai fait en groupe.
 
 # Logiciel requis
 
