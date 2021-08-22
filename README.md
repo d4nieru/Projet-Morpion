@@ -1,4 +1,4 @@
-# Tic Tac Toe NSI #1
+# Tic Tac Toe (Messy School Projects) #1
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ◆ Project completed 8/01/2020 [X]
