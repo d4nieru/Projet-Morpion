@@ -5,7 +5,7 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le Morpion en groupe, les fonctions initiales etaient déjà écrits et on devait compléter le programme.
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur un Morpion en groupe, les fonctions initiales etaient déjà écrits et on devait compléter le programme.
 
 # Logiciel requis
 
