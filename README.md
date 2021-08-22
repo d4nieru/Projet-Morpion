@@ -27,4 +27,6 @@ You can display the tic-tac-toe board by typing this command in the console : `a
 
 `PLAYERS = ('O', 'X')` → `'O' = 0` and `'X' = 1`
 
-Some pictures of the Tic Tac Toe : https://i.imgur.com/5BzEZLK.png | https://i.imgur.com/EFw8W6f.png
+Some pictures of the Tic Tac Toe : 
+
+![Screenshot](https://i.imgur.com/5BzEZLK.png) | ![Screenshot](https://i.imgur.com/EFw8W6f.png)
