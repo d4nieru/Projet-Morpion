@@ -5,7 +5,7 @@
 
 # About
 
-This was a school project on a Tic Tac Toe. The initial functions were already written and we had to complete the program.
+This was a school project on a Tic Tac Toe. The initial functions were already written and we had to complete the program. (This was a group project !)
 
 # Required software
 
