@@ -17,8 +17,7 @@ This was a school project on a Tic Tac Toe. The initial functions were already w
 
 Place a piece : `pose_pion("Player number", "Horizontal coordinate", "Vertical coordinate")`
 
-If the square is playable : `case_jouable("Horizontal coordinate", "Vertical coordinate")`
-Note → "The coordinates of the square must be between 0 and 2 and the square must be empty".
+If the square is playable : `case_jouable("Horizontal coordinate", "Vertical coordinate")` Note → The coordinates of the square must be between 0 and 2 and the square must be empty.
 
 Know who is the winning player if the game is over : `joueur_gagnant()`
 
