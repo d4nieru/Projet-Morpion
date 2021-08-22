@@ -15,13 +15,14 @@ This was a school project on a Tic Tac Toe. The initial functions were already w
 
 ***The commands to type only in the console***
 
-Place a piece : **pose_pion("Player number", "Horizontal coordinate", "Vertical coordinate")**
+Place a piece : `pose_pion("Player number", "Horizontal coordinate", "Vertical coordinate")`
 
-If the square is playable : **case_jouable("Horizontal coordinate", "Vertical coordinate")** "The coordinates of the square must be between 0 and 2 and the square must be empty".
+If the square is playable : `case_jouable("Horizontal coordinate", "Vertical coordinate")`
+Note → "The coordinates of the square must be between 0 and 2 and the square must be empty".
 
-Know who is the winning player if the game is over : **joueur_gagnant()**
+Know who is the winning player if the game is over : `joueur_gagnant()`
 
-You can display the tic-tac-toe board by typing this command in the console : **affiche_tableau_de_jeu()**
+You can display the tic-tac-toe board by typing this command in the console : `affiche_tableau_de_jeu()`
 
 ***For more context:***
 
