@@ -5,11 +5,11 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le Morpion, Le code initiale etait déjà écrit ( surtout les fonctions principaux ) et on devait compléter le programme. Biensur, je l'ai pas fait tout seul, je l'ai fait en groupe.
+C'est un projet de NSI (Numérique et Sciences Informatiques) sur le Morpion en groupe, les fonctions initiales etaient déjà écrits et on devait compléter le programme.
 
 # Logiciel requis
 
-• N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, on a utilisé le site web : https://repl.it )
+• Un environnement de développement intégré pour le langage Python.
 
 # Installation
 
